@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Mâncio Lima",
+    "uf": "AC"
+  },
+  {
+    "id": 2,
+    "name": "Atalaia do Norte",
+    "uf": "AM"
+  },
+  {
+    "id": 3,
+    "name": "Guajará",
+    "uf": "AM"
+  },
+  {
+    "id": 4,
+    "name": "Rodrigues Alves",
+    "uf": "AC"
+  },
+  {
+    "id": 5,
+    "name": "Cruzeiro do Sul",
+    "uf": "AC"
+  },
+  {
+    "id": 6,
+    "name": "Porto Walter",
+    "uf": "AC"
+  },
+  {
+    "id": 7,
+    "name": "Marechal Thaumaturgo",
+    "uf": "AC"
+  },
+  {
+    "id": 8,
+    "name": "Jordão",
+    "uf": "AC"
+  },
+  {
+    "id": 9,
+    "name": "Tarauacá",
+    "uf": "AC"
+  },
+  {
+    "id": 10,
+    "name": "Ipixuna",
+    "uf": "AM"
+  }
+]
