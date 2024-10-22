@@ -25,3 +25,9 @@ Esse comando irá criar um arquivo JSON conforme o exemplo abaixo:
   },
   (...)
 ```
+
+Para ordenar pelo nome da cidade, executar o seguinte comando:
+
+```bash
+node sort.js
+```
